@@ -20,4 +20,4 @@ Dit is de backend-service van onze webshop. Deze service voorziet een API voor o
 * Zet een CI/CD systeem op, zoals gezien in de lessen.
 
 ## Acceptance criteria
-* Zorg dat je een werkende container automatisch kan builden met Github Actions
+* Zorg dat je een werkende container automatisch kan builden met Github Actions.
